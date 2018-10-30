@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eirik/devel/indmek/assignment1/linkedlist/linked_list.c
+stdlib.h
+-
+stdio.h
+-
+linked_list.h
+/home/eirik/devel/indmek/assignment1/linkedlist/linked_list.h
+
+/home/eirik/devel/indmek/assignment1/linkedlist/linked_list.h
+
